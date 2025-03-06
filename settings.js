@@ -17,7 +17,7 @@ global.botNumber = '' //Ejemplo: 573218138672
 
 global.owner = [
   ['51920227615', '🜲 Propietario 🜲', true],
-  ['50368486396'],
+  [''],
   [''],
   [''],
   [''],
@@ -32,8 +32,8 @@ global.owner = [
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = [595984593886]
-global.suittag = [''] 
+global.mods = []
+global.suittag = ['51920227615'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -43,25 +43,25 @@ global.baileys = 'V 6.7.13'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.vsJB = '5.0'
-global.nameqr = 'ALYA-LG'
-global.namebot = '✿◟ALYA-Bσƚ◞✿'
+global.nameqr = 'ÄĻŸÄ'Ś Ö₣ÏĊÏÄĻ ♡●◦•●◉ᬁੌ'
+global.namebot = '✿ÄĻŸÄ'Ś Ö₣ÏĊÏÄĻ ♡●◦•●◉ᬁੌ◞✿'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ ALYA-𝐁𝐨𝐭 ✰⪜'
-global.botname = 'alya-ᑲ᥆𝗍'
-global.wm = 'ৎ୭࠭͢alya-𝐁𝐨𝐭ⷭ𓆪͟͞ '
-global.author = 'Made By Seishiro Nagi 𒆜'
+global.packname = 'ÄĻŸÄ'Ś Ö₣ÏĊÏÄĻ ♡●◦•●◉ᬁੌ'
+global.botname = 'ÄĻŸÄ'Ś Ö₣ÏĊÏÄĻ ♡●◦•●◉ᬁੌ'
+global.wm = 'ÄĻŸÄ'Ś Ö₣ÏĊÏÄĻ ♡●◦•●◉ᬁੌ'
+global.author = 'Made By ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
-global.textbot = 'alya-Bσƚ • Powered By ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
-global.etiqueta = 'seishiro nagi'
+global.textbot = 'ÄĻŸÄ'Ś Ö₣ÏĊÏÄĻ ♡●◦ ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
+global.etiqueta = '⍴᥆ᥕᥱrᥱძ ᑲᥡ ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = 'dolares'
+global.moneda = '¥enes'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
 global.banner = 'https://tinyurl.com/27d7rnhu'
@@ -74,13 +74,13 @@ global.photoSity = [catalogo]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/DOZXfAktnNzFeIfVDvyYIn'
+global.gp1 = 'https://chat.whatsapp.com/DBkDuboKpLT5ffA7kRZckY'
 global.comunidad1 = 'https://chat.whatsapp.com/E306o0iqonT4B2GMgoP2vr'
 global.channel = 'https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb8LAWuAYlUTheJN5J0R'
 global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
 global.correo = 'seishironagi.rukasproyect@gmail.com'
-global.cn ='https://chat.whatsapp.com/GuBLhul0e3rGnEHlFdyLrp';
+global.cn ='https://chat.whatsapp.com/E306o0iqonT4B2GMgoP2vr';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
