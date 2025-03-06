@@ -26,21 +26,21 @@ return res.data
 } catch (e) {
 console.log(`Error : ${e}`)
 }}
-  
+
 //creador y otros
-global.creador = 'Wa.me/584120346669'
+global.creador = 'Wa.me/51920227615'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/584120346669'
-global.namechannel = 'ᥫ᭡ ᥡᥙkіᑲ᥆𝗍-mძ - ᥙ⍴ძᥲ𝗍ᥱs ❀'
-global.namechannel2 = 'ᥫ᭡ ᥡᥙkіᑲ᥆𝗍-mძ - ᥲ᥎іs᥆s ❀'
-global.namegrupo = '.•♫•♬• ʏᴜᴋɪ-ꜱᴜᴏᴜ-ʙᴏᴛ  •♬•♫•.'
-global.namecomu = '✿:･✧ 𝓨𝓾𝓴𝓲 𝓢𝓾𝓸𝓾 𝓒𝓸𝓶𝓾𝓷𝓲𝓽𝔂 ✧･:✿'
+global.asistencia = 'Wa.me/51920227615'
+global.namechannel = 'ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
+global.namechannel2 = 'ALYA OFICIAL CHANNEL'
+global.namegrupo = 'ALYAS OFC'
+global.namecomu = '❖ƬʜᴇᬁAlya Oficial Comunity𒈞꧂♰'
 global.listo = '❮✦❯ *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
 
 //Ids channel
-global.canalIdM = ["120363322713003916@newsletter", "120363343811229130@newsletter"]
-global.canalNombreM = ["ᥫ᭡ ᥡᥙkіᑲ᥆𝗍-mძ - ᥙ⍴ძᥲ𝗍ᥱs ❀", "ᥫ᭡ ᥡᥙkіᑲ᥆𝗍-mძ - ᥲ᥎іs᥆s ❀"]
+global.canalIdM = ["120363407799526075@newsletter", "120363374826926142@newsletter"]
+global.canalNombreM = ["ALYA OFICIAL CHANNEL", "ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★"]
 global.channelRD = await getRandomChannel()
 
 //fechas
@@ -59,25 +59,25 @@ global.error = '✖️'
 global.msm = '⚠︎'
 
 //Emojis determinado de Yuki Bot
-global.emoji = '❀'
-global.emoji2 = '✧'
-global.emoji3 = '✦'
+global.emoji = '❮✦❯'
+global.emoji2 = '❮✧❯'
+global.emoji3 = '❀'
 global.emoji4 = '❍'
 global.emoji5 = '✰'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '❍ Espera un momento, soy lenta...';
-global.waitt = '❍ Espera un momento, soy lenta...';
-global.waittt = '❍ Espera un momento, soy lenta...';
-global.waitttt = '❍ Espera un momento, soy lenta...';
+global.wait = '❀ Espera un momento, soy lenta...';
+global.waitt = '❀ Espera un momento, soy lenta...';
+global.waittt = '❀ Espera un momento, soy lenta...';
+global.waitttt = '❀ Espera un momento, soy lenta...';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'  
-let canal2 = 'https://whatsapp.com/channel/0029VavzewJLikg78gILRn1o'
-var git = 'https://github.com/The-King-Destroy'
-var github = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot' 
-let correo = 'thekingdestroy507@gmail.com'
+var canal = 'https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x'  
+let canal2 = 'https://whatsapp.com/channel/0029Vb8Pug46hENhGBTRzf2F'
+var git = 'https://github.com/willzek'
+var github = 'https://github.com/'
+let correo = 'seishironagi.rukasproyect@gmail.com'
 
 global.redes = [canal, canal2, git, github, correo].getRandom()
 
@@ -103,7 +103,7 @@ global.readMore = more.repeat(850)
 
 global.packsticker = `°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\nᰔᩚ Usuario: ${nombre}\n❀ Bot: ${botname}\n✦ Fecha: ${fecha}\nⴵ Hora: ${tiempo}`;
 global.packsticker2 = `\n°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\n\n${dev}`
-  
+
 //Fakes
 global.fkontak = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: `6285600793871-1614953337@g.us` } : {}) }, message: { 'contactMessage': { 'displayName': `${nombre}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${nombre},;;;\nFN:${nombre},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': null, thumbnail: null,sendEphemeral: true}}}
 
